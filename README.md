@@ -45,13 +45,14 @@ Note: Disconnect the Bluetooth module while uploading the sketch.
 
  - One or both of the Thermistors  or Thermocouples unconnected or shorted -> ERR messages on the LCD and Heater Power = 0%.
  - ON Time limit exceeded (30 min. default) -> Heater Power = 0%.
-
-**First, software test:** https://youtu.be/JrLBjgsHxrg
-**First Hardware Test:** https://youtu.be/ahwki331GuM
-**Full Roast video in Auto Mode:** https://youtu.be/lz_-ME9JabY
-**Settings Mode:** https://youtu.be/SavY8bqy9bM
-**Modified TC4 Android App Demo (final version will be different):** https://youtu.be/n37bFz3xK2w
-**First Crack and Second Crack:** https://youtu.be/Wp2C1tZjCPQ
+--------------------------------------------------------
+**Videos:**
+- **First, software test:** https://youtu.be/JrLBjgsHxrg
+- **First Hardware Test:** https://youtu.be/ahwki331GuM
+- **Full Roast video in Auto Mode:** https://youtu.be/lz_-ME9JabY
+- **Settings Mode:** https://youtu.be/SavY8bqy9bM
+- **Modified TC4 Android App Demo (final version will be different):** https://youtu.be/n37bFz3xK2w
+- **First Crack and Second Crack:** https://youtu.be/Wp2C1tZjCPQ
 
 **Circuit Diagram :**
 - Roastuino SCH v1.0
